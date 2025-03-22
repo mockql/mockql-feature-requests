@@ -39,7 +39,7 @@ Key features:
 
 ## 📬 Contact
 
-Have questions about feature requests? Contact us at [support@mockql.dev](mailto:support@mockql.dev)
+Have questions about feature requests? Contact us at [support@mockql.com](mailto:support@mockql.com)
 
 ---
 
